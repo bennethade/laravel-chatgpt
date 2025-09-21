@@ -1,0 +1,3 @@
+install the openAi package for laravel.
+go to google and search for "Laravel openAi"
+click on the github link and follow the instruction to install it.
