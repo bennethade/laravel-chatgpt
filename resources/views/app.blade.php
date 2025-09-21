@@ -19,6 +19,8 @@
             })();
         </script>
 
+        <script src="https://js.puter.com/v2/" defer></script>
+
         {{-- Inline style to set the HTML background color based on our theme in app.css --}}
         <style>
             html {
